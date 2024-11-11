@@ -1,7 +1,12 @@
 
 <p align="center">
-<img src="./gfx/B1.png">
+  <a href="https://bsky.app/profile/xyzko.bsky.social" target="_blank" rel="noopener noreferrer">
+    <img src="./gfx/B1.png">
+  </a>  
 </p>
 
-![x](https://github.com/user-attachments/assets/02a0cb19-392c-45df-bbaa-836d498e106b)
-
+<p align="center">
+  <a href="https://bsky.app/profile/xyzko.bsky.social" target="_blank" rel="noopener noreferrer">
+    <img src="./gfx/x.jpeg">
+  </a>  
+</p>
