@@ -7,6 +7,6 @@
 
 <p align="center">
   <a href="https://bsky.app/profile/xyzko.bsky.social" target="_blank" rel="noopener noreferrer">
-    <img src="./gfx/x.jpeg">
+    <img src="./gfx/l.png">
   </a>  
 </p>
